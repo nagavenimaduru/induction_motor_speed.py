@@ -1,1 +1,0 @@
-# induction_motor_speed.py
